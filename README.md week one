@@ -1,4 +1,4 @@
-# AtmoGraph: Supply Chain Ripple Effect Predictor
+ # AtmoGraph: Supply Chain Ripple Effect Predictor
 
 AtmoGraph models a global supply chain as a graph, so that a disruption at one place, such as a port strike, can be traced across connected ports, plants and customers. A React dashboard shows the graph and highlights nodes at risk.
 
